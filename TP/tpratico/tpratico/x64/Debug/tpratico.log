@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\gui99\Desktop\TP\tpratico\tpratico\main.c(180,42): warning C4020: 'listarGestor': muitos parâmetros reais
+C:\Users\gui99\Desktop\TP\tpratico\tpratico\main.c(198,58): warning C4047: 'função': 'char' difere em níveis de indireção de 'char [50]'
+C:\Users\gui99\Desktop\TP\tpratico\tpratico\main.c(198,54): warning C4024: 'listarMeiosNoRaio': tipos diferentes para parâmetro formal e real 3
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'C:\Users\gui99\Desktop\TP\tpratico\x64\Debug\tpratico.exe'
